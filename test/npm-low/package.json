@@ -2,6 +2,6 @@
   "name": "audit-ci-npm-low-vulnerability",
   "description": "Test package.json with low vulnerability",
   "dependencies": {
-    "merge": "1.2.0"
+    "merge": "1.2.1"
   }
 }
